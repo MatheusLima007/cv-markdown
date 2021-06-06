@@ -9,6 +9,6 @@
 
 ```cursando```
 
-*  WebDev ALFA - Desenvolvimento de Aplicações para Web e Dispositivos Móveis - Turma V (2021)
+*  Pós Graduação em WebDev ALFA - Turma V (2021)
 
-*  Tecnologia em Sistemas para Internet UniAlfa - Turma (2019)
+*  Graduação em Tecnologia em Sistemas para Internet UniAlfa - Turma (2019)
