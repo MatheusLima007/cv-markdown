@@ -26,7 +26,16 @@
 * Curso Web moderno completo com javascript 2021
 
 
-```Rocketseat```
+## Conhecimentos
+
+* Node, React, Laravel
+* MongoDB, Postgres, MySQL
+* HTML, CSS, GIT, NPM
+* Scrum, Kanban
+
+## Participação em Eventos
+
 * Next Level Week
 * Semana Omnistack
 * Discovery
+* TDC
