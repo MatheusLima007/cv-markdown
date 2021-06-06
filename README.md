@@ -52,3 +52,11 @@
 * [GitHub](https://github.com/MatheusLima007)
 
 * [instagram](https://www.instagram.com/__matheus__lima/)
+
+## Informações adicionais
+
+* Português nativo
+
+* Inglês intermediário
+
+* Espanhol intermediário
