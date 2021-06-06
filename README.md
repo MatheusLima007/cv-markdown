@@ -18,3 +18,11 @@
 * Projeto de gerencia de produtos com Node e React (em andamento)
 * Projeto para melhorar a alimentaçâo (em andamento)
 * Projeto de montar minha area de trabalho (em andamento)
+
+## Redes sociais
+
+* [Linkedin](https://www.linkedin.com/in/matheus-lima-939b96180/)
+
+* [GitHub](https://github.com/MatheusLima007)
+
+* [instagram](https://www.instagram.com/__matheus__lima/)
